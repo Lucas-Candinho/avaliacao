@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.inicial {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding-top: 2%;
+}
+
+.rei_dos_cheetos {
+    height: 600px;
+    width: 450px;
+}
+

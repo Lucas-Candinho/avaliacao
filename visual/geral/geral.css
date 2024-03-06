@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.imagem-geral {
+    height: 600px;
+    width: 500px;
+}
+
+.flex-column-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding-top: 2%;
+}
+
+.text-header {
+    font-size: 40px;
+    color: red;
+    text-decoration: line-through;
+}
